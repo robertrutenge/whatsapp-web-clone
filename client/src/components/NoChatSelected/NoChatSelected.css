@@ -1,0 +1,32 @@
+.NoChatSelected {
+  display: flex;
+  flex-direction: column;
+  flex: 0.7;
+  background: rgb(248, 249, 250);
+  height: 100vh;
+  padding-top: 100px;
+}
+
+.NoChatSelected img {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+}
+.NoChatSelected h1 {
+  margin-top: 28px;
+  font-size: 32px;
+  color: rgb(82, 82, 82);
+}
+.NoChatSelected p {
+  margin-top: 18px;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.NoChatSelected__description {
+  text-align: center;
+  width: 80%;
+  max-width: 460px;
+  margin: 0 auto;
+}
